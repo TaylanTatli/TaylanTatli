@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Taylan.</h1>
+<h3 align="center">An environmental engineer and occupational health and safety specialist who likes designing websites and messing with linux</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taylantatli" alt="taylantatli" /> </p>
 
-<!--
-**TaylanTatli/TaylanTatli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **taylantatli90@gmail.com**
 
-Here are some ideas to get you started:
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taylantatli&show_icons=true" alt="taylantatli" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://dev.to/taylantatli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="taylantatli" height="20" width="20" /></a>
+<a href="https://twitter.com/tatlitaylan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tatlitaylan" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/taylantatli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="taylantatli" height="20" width="20" /></a>
+<a href="https://fb.com/taylantatli34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="taylantatli34" height="20" width="20" /></a>
+<a href="https://instagram.com/tatlitaylan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tatlitaylan" height="20" width="20" /></a>
+</p>
