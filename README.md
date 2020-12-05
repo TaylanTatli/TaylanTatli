@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **taylantatli90@gmail.com**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taylantatli&show_icons=true" alt="taylantatli" /> </p>
+<p align="left"><img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=taylantatli&show_icons=true" alt="taylantatli" /> </p>
 
 <p align="center">
 <a href="https://dev.to/taylantatli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="taylantatli" height="20" width="20" /></a>
