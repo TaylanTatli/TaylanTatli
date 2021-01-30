@@ -2,7 +2,7 @@
 <h3 align="center">An environmental engineer and occupational health and safety specialist who likes designing websites and messing with linux</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylantatli&style=flat-square&color=blue" alt="taylantatli" /> </p>
 
-- 📫 How to reach me **taylantatli90@gmail.com**
+- 📫 How to reach me
 
 
 <p align="center">
