@@ -7,22 +7,22 @@
 
 <p align="center">
   <a href="mailto:taylantatli90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
   </a>
   <a href="https://twitter.com/tatlitaylan" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tatlitaylan?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/tatlitaylan?label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://github.com/TaylanTatli?tab=followers">
-    <img src="https://img.shields.io/github/followers/TaylanTatli?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/TaylanTatli?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://fb.com/taylantatli34" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="taylantatli34" />
+  <a href="https://fosstodon.org/@taylantatli" target="blank">
+    <img src="https://img.shields.io/mastodon/follow/320219?color=%232b90d9&domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&logo=mastodon&style=for-the-badge" alt="Mastodon" />
   </a>
   <a href="https://www.linkedin.com/in/taylantatli/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="taylantatli34" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://instagram.com/tatlitaylan" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="tatlitaylan" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
