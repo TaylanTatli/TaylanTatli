@@ -7,7 +7,10 @@
 
 <p align="center">
   <a href="mailto:taylantatli90@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="E-Mail" />
+  </a>
+  <a href="https://taylantatli.com">
+    <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=Micro.blog" alt="Blog" />
   </a>
   <a href="https://twitter.com/tatlitaylan" target="blank">
     <img src="https://img.shields.io/twitter/follow/tatlitaylan?label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter" />
