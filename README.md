@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="mailto:info@taylantatli.com">
+  <a href="mailto:taylan@taylantatli.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white" alt="E-Mail" />
   </a>
   <a href="https://taylantatli.com">
