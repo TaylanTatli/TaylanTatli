@@ -1,8 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/TaylanTatli/TaylanTatli/master/assets/wave.gif" width="30px">, I'm Taylan.</h1>
-<h3 align="center">An environmental engineer and occupational health and safety specialist who likes designing websites and messing with linux</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taylantatli&style=flat-square&color=blue" alt="taylantatli" /> </p>
+<h3 align="center">An environmental engineer and occupational health and safety specialist who likes designing websites and messing with linux</h3>  
 
-- 📫 How to reach me
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=taylantatli&style=flat-square&color=444444&label=Views" alt="taylantatli" /> </p>
+
+<h3 align="center">📫 How to reach me</h3>
 
 
 <p align="center">
