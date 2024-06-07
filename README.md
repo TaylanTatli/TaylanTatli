@@ -7,10 +7,10 @@
 
 
 <p align="center">
-  <a href="mailto:taylan@taylantatli.com">
+  <a href="mailto:taylan@tatli.me">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
   </a>
-  <a href="https://taylantatli.com">
+  <a href="https://tatli.me">
     <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=Micro.blog&colorA=302D41&colorB=ABE9B3" alt="Blog" />
   </a>
   <a href="https://twitter.com/tatlitaylan" target="blank">
