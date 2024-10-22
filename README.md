@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TaylanTatli/TaylanTatli/master/assets/wave.gif" width="30px">, I'm Taylan.</h1>
-<h3 align="center">An environmental engineer and occupational health and safety specialist who likes designing websites and messing with linux</h3>  
+<h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/TaylanTatli/TaylanTatli/master/assets/wave.gif" width="30px"> I'm Taylan.</h1>
+<h3 align="center">An environmental engineer with a passion for open-source projects. I love designing websites and tinkering with Linux.</h3>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taylantatli&style=flat-square&color=444444&label=Views" alt="taylantatli" /> </p>
 
