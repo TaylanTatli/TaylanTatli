@@ -27,4 +27,16 @@
   </a>
 </p>
 
-<p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=taylantatli&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=radical&card_width=500&bg_color=22272e&border_color=444c56" alt="taylantatli" /></p>
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=TaylanTatli&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&card_width=500&theme=dark&card_width=500&bg_color=22272e&border_color=444c56"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=TaylanTatli&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&card_width=500&bg_color=ffffff&border_color=dee4e9"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=TaylanTatli&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&card_width=500" />
+  </picture>
+</p>
