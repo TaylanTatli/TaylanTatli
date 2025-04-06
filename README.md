@@ -7,24 +7,12 @@
 
 
 <p align="center">
-  <a href="mailto:taylan@tatli.me">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
-  </a>
-  <a href="https://tatli.me">
-    <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=Micro.blog&colorA=302D41&colorB=ABE9B3" alt="Blog" />
-  </a>
-  <a href="https://twitter.com/tatlitaylan" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tatlitaylan?label=Twitter&logo=twitter&style=for-the-badge&colorA=302D41&colorB=96CDFB" alt="Twitter" />
-  </a>
-  <a href="https://fosstodon.org/@taylantatli" target="blank">
-    <img src="https://img.shields.io/mastodon/follow/320219?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&logo=mastodon&style=for-the-badge&colorA=302D41&colorB=2b90d9" alt="Mastodon" />
-  </a>
-  <a href="https://www.linkedin.com/in/taylantatli/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&colorA=302D41&colorB=89DCEB" alt="Linkedin" />
-  </a>
-  <a href="https://instagram.com/tatlitaylan" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&colorA=302D41&colorB=F28FAD" alt="Instagram" />
-  </a>
+  <a href="mailto:taylan@tatli.me"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" /></a>
+  <a href="https://tatli.me"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=Micro.blog&colorA=302D41&colorB=ABE9B3" alt="Blog" /></a>
+  <a href="https://twitter.com/tatlitaylan" target="blank"><img src="https://img.shields.io/twitter/follow/tatlitaylan?label=Twitter&logo=twitter&style=for-the-badge&colorA=302D41&colorB=96CDFB" alt="Twitter" /></a>
+  <a href="https://fosstodon.org/@taylantatli" target="blank"><img src="https://img.shields.io/mastodon/follow/320219?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&logo=mastodon&style=for-the-badge&colorA=302D41&colorB=2b90d9" alt="Mastodon" /></a>
+  <a href="https://www.linkedin.com/in/taylantatli/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&colorA=302D41&colorB=89DCEB" alt="Linkedin" /></a>
+  <a href="https://instagram.com/tatlitaylan" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&colorA=302D41&colorB=F28FAD" alt="Instagram" /></a>
 </p>
 
 <p align="center">
